@@ -75,7 +75,7 @@ define(function() {
                 x = Math.floor((entity.gridX - 1) / w) * w,
                 y = Math.floor((entity.gridY - 1) / h) * h;
 
-            this.setGridPosition(0, 300);
+            this.setGridPosition(0, 0);
         }
     });
 
